@@ -1,0 +1,10 @@
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lab1.csprojAssemblyReference.cache
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lab1.csproj.GenerateResource.cache
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+d:\Study\COURSE_TWO\visual enviroment\4sem\lab1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
