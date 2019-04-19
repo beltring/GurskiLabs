@@ -1,0 +1,10 @@
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\bin\Debug\lab7.exe.config
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\bin\Debug\lab7.exe
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\bin\Debug\lab7.pdb
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\obj\Debug\lab7.Form1.resources
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\obj\Debug\lab7.exe
+d:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab7\lab7\obj\Debug\lab7.pdb
