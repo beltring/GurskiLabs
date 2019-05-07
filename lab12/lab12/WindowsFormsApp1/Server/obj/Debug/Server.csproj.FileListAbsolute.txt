@@ -1,0 +1,7 @@
+D:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab12\lab12\WindowsFormsApp1\Server\bin\Debug\Server.exe.config
+D:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab12\lab12\WindowsFormsApp1\Server\bin\Debug\Server.exe
+D:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab12\lab12\WindowsFormsApp1\Server\bin\Debug\Server.pdb
+D:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab12\lab12\WindowsFormsApp1\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab12\lab12\WindowsFormsApp1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab12\lab12\WindowsFormsApp1\Server\obj\Debug\Server.exe
+D:\Study\COURSE_TWO\visual enviroment\4sem\labs\lab12\lab12\WindowsFormsApp1\Server\obj\Debug\Server.pdb
